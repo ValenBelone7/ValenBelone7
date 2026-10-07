@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Valentín Belone
+Backend developer from Córdoba, Argentina. I build with Python, Django and PostgreSQL, and use React / Next.js when a project needs a frontend.
 
-<!--
-**ValenBelone7/ValenBelone7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-founder of PB DevHouse, where I build management systems that run in production for small businesses. One of them manages 300–400 active rental contracts.
+Developer at Criptodery, a crypto trading Mini App inside Lemon Cash App with 1,400+ verified users.
+Currently strengthening my fundamentals without AI in Laboratorio, and learning Docker and cloud.
+Open to remote backend roles.
+Stack
+Python Django Django REST Framework PostgreSQL REST APIs JWT LLM integration n8n React Next.js TypeScript Git GitHub Actions Linux
 
-Here are some ideas to get you started:
+Products I've built
+Product	What it does	Demo
+Contrata	Rental contract management: automatic rent increases (IPC, ICL), late fees, PDF/DOCX receipts	gestorcontratos.pb-devhouse.com
+Gestor de Kioscos	Stock, sales, customer credit and profit reports for small shops	gestorkiosco.pb-devhouse.com
+Contact
+LinkedIn · Portfolio · valenbelone14@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Spanish (native) · English (intermediate)
