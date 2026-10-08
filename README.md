@@ -6,7 +6,7 @@
 
 Córdoba, Argentina · Open to remote backend roles
 
-<a href="https://www.linkedin.com/in/valent%C3%ADn-belone-a447b42b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/valentin-belone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 <a href="https://www.belone-dev.com.ar/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" alt="Portfolio"></a>
 <a href="https://www.pb-devhouse.com/"><img src="https://img.shields.io/badge/PB%20DevHouse-2E7D32?style=for-the-badge" alt="PB DevHouse"></a>
 <a href="mailto:valenbelone14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
